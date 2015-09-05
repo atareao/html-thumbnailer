@@ -1,0 +1,3 @@
+src/html.thumbnailer /usr/share/thumbnailers
+src/html-thumbnailer /opt/extras.ubuntu.com/html-thumbnailer/bin
+data/html-mask.png /opt/extras.ubuntu.com/html-thumbnailer/share/pixmaps

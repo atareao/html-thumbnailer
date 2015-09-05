@@ -1,0 +1,19 @@
+html-thumbnailer
+================
+
+html-thumbnailer is a thumbnailer for html files.
+
+Download
+--------
+
+Download the [package][dlp] *or* checkout the source:
+
+    $ git clone https://github.com/atareao/html-thumbnailer
+
+
+Installation
+------------
+
+    $ sudo add-apt-repositoy ppa:atareao/thumbnailers
+    $ sudo apt-get update
+    $ sudo apt-get install html-thumbnailer

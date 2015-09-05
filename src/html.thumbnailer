@@ -1,0 +1,4 @@
+[Thumbnailer Entry]
+TryExec=/opt/extras.ubuntu.com/html-thumbnailer/bin/html-thumbnailer
+Exec=/opt/extras.ubuntu.com/html-thumbnailer/bin/html-thumbnailer %u %o %s
+MimeType=text/html;
